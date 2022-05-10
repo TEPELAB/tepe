@@ -1,2 +1,2 @@
 # tepe
-TEPE Lab Website
+This repo posts the TEPE Lab Website.
