@@ -5,7 +5,4 @@ collection: research
 ---
 
 PRPG-CS project investigates how PRPG can support CS education by examing students' performance, flow experience, engagement patterns, learning motivation, and cultural differences. 
-Project Members: 
-Dr. Luqiang Xu
-Yufei Xie
-Dr. Lin Zhong
+Project Members: Dr. Luqiang Xu, Yufei Xie, Dr. Lin Zhong.
