@@ -1,1 +1,1 @@
-This repo posts the TEPE Lab Website.
+This repo hosts the TEPE Lab Website.
