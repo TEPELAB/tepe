@@ -80,15 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Lin Zhong"
+  name             : "Lin Zhong"
   avatar           : "profile.jpg"
   bio              : "Assistant Professor, Workforce Education and Development, Southern Illinois University"
   location         : "Carbondale, IL"
-  email            : "bessiezhonglin@gmail.com"
-  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NMXyeZMAAAAJ&hl=en"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Lin-Zhong-7"
+  email            : "bessiezhonglin@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Lin-Zhong-7"
   uri              :
   bitbucket        :
   codepen          :
@@ -181,8 +179,8 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
+  research:
+    output: true
     permalink: /:collection/:path/
   talks:
     output: false
@@ -227,10 +225,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
