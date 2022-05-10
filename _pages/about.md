@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-TEPE Lab conducts research in personalized education enhanced by novel technologies, such as gaming, analytic techniques, and machine learning techniques. If you are a student or researcher looking for senior projects, indenpendent study, or graduate study, feel free to contact me or talk to lab members. The following are projects currently conducting in TEPE lab.
+TEPE Lab conducts research in personalized education enhanced by novel technologies, such as gaming, analytic techniques, and machine learning techniques. If you are a student or researcher looking for senior projects, indenpendent study, or graduate study, feel free to contact me or talk to lab members.
